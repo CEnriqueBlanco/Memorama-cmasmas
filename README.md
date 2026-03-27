@@ -78,14 +78,6 @@ memorama.exe
 - El codigo espera archivos de categorias para cargar palabras. Si falta alguna categoria, se debe crear su archivo correspondiente.
 - Los sonidos `.wav` deben mantenerse disponibles para que el juego reproduzca audio correctamente.
 
-## Equipo
-
-Integrantes observados en el proyecto:
-
-- Alan Gael Gallardo Jimenez
-- Carlos Enrique Blanco Ortiz
-- (Otros integrantes segun encabezados del proyecto)
-
 ## Estado
 
 Proyecto academico funcional en entorno Windows con enfoque en estructuras de datos, manejo de archivos, validacion de entradas y experiencia de usuario en consola.
