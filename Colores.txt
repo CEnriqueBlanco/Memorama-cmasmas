@@ -1,0 +1,10 @@
+Magenta 
+Morado 
+Blanco 
+Gris 
+Verde 
+Rosa 
+Azul 
+Celeste 
+Negro 
+Dorado 

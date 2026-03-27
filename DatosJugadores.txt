@@ -1,0 +1,186 @@
+Dimension: 4X4 Alias: Bot1247
+Fecha:09/06/2023 Hora:05:42:14
+Raton          Oveja          Zorrillo       Ballena        
+Ballena        Gato           Zorro          Vaca           
+Serpiente      Gato           Zorro          Raton          
+Zorrillo       Vaca           Oveja          Serpiente      
+
+
+Dimension: 4X4 Alias: Bot6781
+Fecha:09/06/2023 Hora:05:51:12
+Platino        Azul           Verde          Verde          
+Naranja        Amarillo       Gris           Naranja        
+Blanco         Negro          Negro          Azul           
+Amarillo       Platino        Blanco         Gris           
+
+
+Dimension: 4X3 Alias: Bot8035
+Fecha:09/06/2023 Hora:05:53:30
+Groelandia     Groelandia     Peru           
+Francia        Francia        Peru           
+Inglaterra     Rusia          Alemania       
+Rusia          Alemania       Inglaterra     
+
+
+Dimension: 4X3 Alias: Bot7552
+Fecha:09/06/2023 Hora:06:14:25
+Japon          Alemania       Chile          
+Peru           Japon          Groelandia     
+Chile          Canada         Canada         
+Alemania       Peru           Groelandia     
+
+
+Dimension: 3X2 Alias: carlos
+Fecha:09/06/2023 Hora:07:16:39
+Naranja        Celeste        
+Celeste        Blanco         
+Naranja        Blanco         
+
+
+Dimension: 3X2 Alias: Cedro
+Fecha:09/06/2023 Hora:08:51:29
+Naranja        Naranja        
+Amarillo       Morado         
+Morado         Amarillo       
+
+
+Dimension: 3X2 Alias: pipe
+Fecha:09/06/2023 Hora:08:52:06
+Blanco         Celeste        
+Negro          Negro          
+Blanco         Celeste        
+
+
+Dimension: 4X3 Alias: Bot6443
+Fecha:09/06/2023 Hora:13:40:56
+Raton          Canguro        Tortuga        
+Perro          Ballena        Serpiente      
+Raton          Ballena        Canguro        
+Serpiente      Tortuga        Perro          
+
+
+Dimension: 4X4 Alias: MADRHODE
+Fecha:09/06/2023 Hora:13:44:12
+Zorro          Tortuga        Vaca           Perro          
+Zorrillo       Tortuga        Gato           Perro          
+Vaca           Canguro        Canguro        Zorro          
+Zorrillo       Gato           Raton          Raton          
+
+
+Dimension: 4X4 Alias: Diego
+Fecha:09/06/2023 Hora:18:54:37
+Morado         Celeste        Gris           Verde          
+Rosa           Blanco         Gris           Morado         
+Dorado         Verde          Dorado         Celeste        
+Blanco         Negro          Negro          Rosa           
+
+
+Dimension: 4X4 Alias: Juan
+Fecha:09/06/2023 Hora:18:59:02
+Azul           Azul           Morado         Rosa           
+Celeste        Rosa           Celeste        Dorado         
+Blanco         Verde          Verde          Morado         
+Blanco         Negro          Dorado         Negro          
+
+
+Dimension: 4X4 Alias: Alondra
+Fecha:09/06/2023 Hora:19:01:31
+Chile          Marruecos      Chile          Groelandia     
+Groelandia     Rusia          Canada         Japon          
+Rusia          Peru           Japon          Peru           
+Inglaterra     Canada         Inglaterra     Marruecos      
+
+
+Dimension: 4X3 Alias: Edith
+Fecha:09/06/2023 Hora:19:05:08
+Perro          Zorrillo       Ballena        
+Raton          Perro          Rinoceronte    
+Oveja          Zorrillo       Oveja          
+Raton          Rinoceronte    Ballena        
+
+
+Dimension: 4X3 Alias: Edith1
+Fecha:09/06/2023 Hora:19:06:24
+Ballena        Serpiente      Vaca           
+Ballena        Tortuga        Canguro        
+Tortuga        Zorro          Serpiente      
+Zorro          Vaca           Canguro        
+
+
+Dimension: 4X3 Alias: DiegoM
+Fecha:09/06/2023 Hora:19:08:26
+Negro          Celeste        Celeste        
+Gris           Negro          Rosa           
+Rosa           Dorado         Morado         
+Gris           Dorado         Morado         
+
+
+Dimension: 3X2 Alias: Pedro
+Fecha:09/06/2023 Hora:19:10:43
+Marruecos      Francia        
+Groelandia     Francia        
+Groelandia     Marruecos      
+
+
+Dimension: 3X2 Alias: Juanito
+Fecha:09/06/2023 Hora:19:11:32
+Peru           Groelandia     
+Peru           Rusia          
+Groelandia     Rusia          
+
+
+Dimension: 3X2 Alias: Juanitoa
+Fecha:09/06/2023 Hora:19:12:28
+Zorrillo       Vaca           
+Vaca           Zorrillo       
+Serpiente      Serpiente      
+
+
+Dimension: 4X4 Alias: Elias
+Fecha:09/06/2023 Hora:19:13:24
+Negro          Azul           Blanco         Dorado         
+Rosa           Celeste        Blanco         Morado         
+Morado         Azul           Gris           Celeste        
+Gris           Dorado         Negro          Rosa           
+
+
+Dimension: 4X4 Alias: Bot2296
+Fecha:09/06/2023 Hora:19:28:34
+Blanco         Celeste        Blanco         Rosa           
+Morado         Azul           Rosa           Gris           
+Dorado         Dorado         Azul           Celeste        
+Morado         Negro          Gris           Negro          
+
+
+Dimension: 4X3 Alias: Bot9712
+Fecha:09/06/2023 Hora:19:30:40
+Rusia          Rusia          Japon          
+Chile          Peru           Marruecos      
+Japon          Marruecos      Chile          
+Canada         Canada         Peru           
+
+
+Dimension: 4X3 Alias: Bot9781
+Fecha:09/06/2023 Hora:19:31:02
+Marruecos      Canada         Marruecos      
+Peru           Canada         Peru           
+Japon          Francia        Francia        
+Groelandia     Japon          Groelandia     
+
+
+Dimension: 4X3 Alias: Bot9846
+Fecha:09/06/2023 Hora:19:31:21
+Verde          Negro          Celeste        
+Gris           Azul           Morado         
+Gris           Morado         Celeste        
+Azul           Negro          Verde          
+
+
+Dimension: 4X3 Alias: Bot9908
+Fecha:09/06/2023 Hora:19:31:43
+Azul           Negro          Dorado         
+Dorado         Azul           Rosa           
+Morado         Celeste        Morado         
+Rosa           Negro          Celeste        
+
+
