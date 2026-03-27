@@ -75,8 +75,6 @@ memorama.exe
 ```
 
 ## Notas importantes
-
-- Existe un archivo alterno `pantallasss.cpp` con otro `main`; no se recomienda compilarlo junto con `Proyecto.cpp` para evitar conflicto de punto de entrada.
 - El codigo espera archivos de categorias para cargar palabras. Si falta alguna categoria, se debe crear su archivo correspondiente.
 - Los sonidos `.wav` deben mantenerse disponibles para que el juego reproduzca audio correctamente.
 
